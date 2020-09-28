@@ -17,6 +17,7 @@ I'm a random dude that writes random code, but somehow, it works!
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/sherpard)](https://github.com/sherpard) 
 [![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&link=https://github.com/sherpard)](https://github.com/sherpard) 
+[![Less](https://img.shields.io/badge/-Less-blue?style=flat&link=https://github.com/sherpard)](https://github.com/sherpard) 
 [![Seedstack](https://img.shields.io/badge/-Seedstack-green?style=flat&link=https://github.com/sherpard)](https://github.com/sherpard) 
 
 ### CI
@@ -26,12 +27,11 @@ I'm a random dude that writes random code, but somehow, it works!
 
 ### Other Random Stuff
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/sherpard)](https://github.com/sherpard)
+[![MySQL](https://img.shields.io/badge/MySQL-FFF?style=flat&logoColor=black&logo=mysql&link=https://github.com/sherpard)](https://github.com/sherpard)
 [![SQL Server](https://img.shields.io/badge/Sql_Server-181717?style=flat&logo=microsoft-sql-server&link=https://github.com/sherpard)](https://github.com/sherpard)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/sherpard)](https://github.com/sherpard) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/sherpard)](https://github.com/sherpard) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/sherpard)](https://github.com/sherpard) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/sherpard)](https://github.com/sherpard)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat&logo=Node.js&link=https://github.com/sherpard)](https://github.com/sherpard) 
+[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&link=https://github.com/sherpard)](https://github.com/sherpard) 
+[![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&link=https://github.com/sherpard)](https://github.com/sherpard) 
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sherpard&theme=radical&show_icons=truel&compact=true)
