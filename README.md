@@ -34,4 +34,4 @@ I'm a random dude that writes random code, but somehow, it works!
 [![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&link=https://github.com/sherpard)](https://github.com/sherpard) 
 
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=sherpard&theme=radical&show_icons=truel&compact=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sherpard&show_icons=truel&compact=true)
