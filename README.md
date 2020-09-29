@@ -2,6 +2,11 @@
 
 I'm a random dude that writes random code, but somehow, it works!
 
+
+[![dev.to badge](https://img.shields.io/badge/Xián_Boullosa-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/xian-boullosa-29893868/)
+![](https://komarev.com/ghpvc/?username=sherpard&color=brightgreen&style=flat)	 
+
+
 ## A phletora of the technologies / tools I'm used to
 
 ### Languages
@@ -32,6 +37,7 @@ I'm a random dude that writes random code, but somehow, it works!
 [![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat&logo=Node.js&link=https://github.com/sherpard)](https://github.com/sherpard) 
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&link=https://github.com/sherpard)](https://github.com/sherpard) 
 [![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&link=https://github.com/sherpard)](https://github.com/sherpard) 
+[![OpenAPI-SPEC](https://img.shields.io/badge/OpenAPI-gray?style=flat&logo=swagger&link=https://github.com/sherpard)](https://github.com/sherpard)
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sherpard&show_icons=truel&compact=true)
